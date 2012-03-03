@@ -5,6 +5,8 @@ int main(int argc ,char *argv[])
 	char m;
 	int f;
 	int  gggggggggggggggggggggg;
+
+printf("good start!");
       printf("hello,world!");
 	return 0;
 }
